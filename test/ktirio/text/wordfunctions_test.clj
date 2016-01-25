@@ -1,0 +1,11 @@
+(ns ktirio.text.wordfunctions-test
+  (:require [clojure.test :refer all]
+            [ktirio.text.wordfunctions :refer :all]))
+
+(deftest word-length-test
+  (testing "Word length test (longer than x but less than y): FAILS"
+    (is (= 0 1))))
+
+(deftest paragraph-length-test
+  (testing "Minimum paragraph length (in words): FAILS"
+    (is (= 0 1))))
