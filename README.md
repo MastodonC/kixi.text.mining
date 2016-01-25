@@ -1,4 +1,4 @@
-# ktirio.text.mining
+# kixi.text.mining
 
 A project to extract topics from text files using the [Latent Dirichlet Allocation](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation) (LDA) model.
 
